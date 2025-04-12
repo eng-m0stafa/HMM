@@ -129,12 +129,6 @@
    print("Log likelihood of the sequence:", score)
    ```
 
-### Step 7: Integration into Application
 
-1. **Use Inferred States**:
-   Integrate the predicted hidden states into your application for further analysis or decision-making.
-
-2. **Trigger Alerts**:
-   Set up alerts for low-probability sequences that may indicate anomalies.
 
 
